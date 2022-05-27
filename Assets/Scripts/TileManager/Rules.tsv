@@ -1,0 +1,12 @@
+ThisTileType OtherTileType Up Right Down Left
+DenseTrees DenseTrees 1 1 1 1
+LightTrees LightTrees 1 1 1 1
+Grass Grass 1 1 1 1
+Sand Sand 1 1 1 1
+Water Water 1 1 1 1
+DeepWater DeepWater 1 1 1 1
+DenseTrees LightTrees 1 1 1 1
+LightTrees Grass 1 1 1 1
+Grass Sand 1 1 1 1
+Sand Water 1 1 1 1
+Water DeepWater 1 1 1 1
